@@ -170,7 +170,7 @@ importers:
     dependencies:
       '@devforge/shared':
         specifier: workspace:*
-        version: link:../..
+        version: link:../../packages/shared
       express:
         specifier: ^5.2.1
         version: 5.2.1
